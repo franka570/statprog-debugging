@@ -1,0 +1,7 @@
+---
+title: "practial3"
+format: html
+editor: visual
+---
+
+## 
